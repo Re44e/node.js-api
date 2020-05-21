@@ -4,4 +4,4 @@ Basic implementation of a REST API using express, body-parser, mongoose, and Mon
 
 API testing through Postman...
 
-![node](https://user-images.githubusercontent.com/52089289/82515169-f2d20c00-9aed-11ea-8e1d-7f604f1e28cf.jpeg)
+![nojs](https://user-images.githubusercontent.com/52089289/82515632-10ec3c00-9aef-11ea-90b0-63a9664e1ac8.jpeg)
