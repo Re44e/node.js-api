@@ -8,12 +8,15 @@ Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
   
 
 <h5>Follow the instructions below to run the project:</h5>
-<h6>
+
+<h5>
   <ul>
     <li>Clone the project</li>
-    <li>Run the npm install command at the project root to download the dependencies.</li>
+    <li>Run the <h6>npm install</h6> command at the project root to download the dependencies.</li>
+    <li>Start the project by running the <h6>npm run dev</h6>  command</li>
   </ul>
-</h6>
+</h5>
+
 
 
 
