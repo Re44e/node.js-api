@@ -9,13 +9,13 @@ Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
 
 <h5>Follow the instructions below to run the project:</h5>
 
-<h5>
+<h6>
   <ul>
     <li>Clone the project</li>
     <li>Run the <i>npm install</i> command at the project root to download the dependencies.</li>
-    <li>Start the project by running the *npm run dev* command</li>
+    <li>Start the project by running the <i>npm run dev</i> command</li>
   </ul>
-</h5>
+</h6>
 
 
 
