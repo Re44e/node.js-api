@@ -7,10 +7,10 @@ API testing through Postman
 Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
   
 
-<h5>Follow the instructions below to run the project:<h5/>
+<h5>Follow the instructions below to run the project:</h5>
 
 <ul>
-  <li>Clone the project</li>
+  <li><h6>Clone the project</h6></li>
   <li>Run the npm install command at the project root to download the dependencies.</li>
 </ul>
 
