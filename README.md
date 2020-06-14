@@ -7,7 +7,7 @@ API testing through Postman
 Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
   
 
-<h5>Follow the instructions below to run the project:</h5>
+**Follow the instructions below to run the project:**
 
 <h6>
   <ul>
