@@ -11,7 +11,7 @@ Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
 
 <h6>
   <ul>
-    <li>Clone the project</li>
+    <li>the project</li>
     <li>Run the <i>npm install</i> command at the project root to download the dependencies.</li>
     <li>Start the project by running the <i>npm run dev</i> command</li>
   </ul>
