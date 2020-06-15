@@ -2,7 +2,7 @@
 
 Basic implementation of a REST API using express, body-parser, mongoose, and MongoDB.
 
-API testing through Postman 
+API testing through Postman. 
 
 Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
   
