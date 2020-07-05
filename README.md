@@ -1,6 +1,6 @@
 **REST API using Node.js**
 
-Basic implementation of a REST API using express, body-parser, mongoose, and MongoDB.
+Basic implementation of a REST API using Express.js, Mongoose, and MongoDB.
 
 API testing through Postman. 
 
