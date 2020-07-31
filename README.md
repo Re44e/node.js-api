@@ -4,7 +4,7 @@ Basic implementation of a REST API using Express.js, Mongoose, and MongoDB.
 
 API testing through Postman. 
 
-Explore a docs: <a href="https://learning.postman.com/">learning.postman.com</a>
+Explore a docs: <a href="https://learning.postman.com/">postman</a>
   
 
 **Follow the instructions below to run the project:**
